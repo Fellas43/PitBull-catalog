@@ -33,5 +33,3 @@ Instruções sobre como contribuir para o projeto, como:
 Informações sobre a licença do projeto.
 
 ---
-
-Caso precise de mais alguma coisa, é só avisar!
