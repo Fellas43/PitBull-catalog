@@ -18,7 +18,7 @@ O projeto visa criar uma plataforma acessível para armazenar e compartilhar inf
 ## Tecnologias Utilizadas
 
 - [Google Maps API](https://developers.google.com/maps)
-- [Outras tecnologias que você pretende usar]
+
 
 ## Como Contribuir
 
